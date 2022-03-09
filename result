@@ -1,0 +1,11 @@
+before_BMI, after_BMI => p_value : 0.001
+before_waist, after_waist => p_value : 0.004
+
+mean(minus_bmi) = 1.42441750
+std(minus_bmi) = 1.36350816
+
+mean(minus_waist) = 36.09528
+std(minus_waist) = 96.8502196
+
+paired T (BMI) => pvalue=1.0210338255921736e-33
+paired T (waist) => pvalue=3.751495490212542e-07
